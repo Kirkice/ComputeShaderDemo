@@ -1,11 +1,12 @@
+# ComputeShaderDemo·Particles
 
 # Introduction
 
 A particle effect demo implemented by computeshader.
 
 # Screenshot
-
-https://img-blog.csdnimg.cn/20200411150718676.gif
+![image](https://github.com/Kirkice/ComputeShaderDemo/blob/master/image.png)
+![image](https://img-blog.csdnimg.cn/20200411150718676.gif)
 
 # Reference
 
